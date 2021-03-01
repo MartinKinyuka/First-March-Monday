@@ -1,10 +1,13 @@
 div {
-  background-color: yellow;
-  text-align: center;
+  background-color: violet;
   height: 100px;
   width: 100px;
   margin: 10px;
+  text-align: center;
 }
-main{
-    display: flex;
+main {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  
 }
