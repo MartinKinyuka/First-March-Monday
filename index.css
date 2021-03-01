@@ -1,28 +1,18 @@
-.heading{
-  display: flex;
-  flex-direction: column;
-}
-h1{
-  align-self: center;
-  padding: 20px;
-  font-family: Helvetica;
-  text-align: center;
-  color: white;
-  background-color: black;
-  width: 30%;
-}
-img{
-  height: 300px;
-  width: 400px;
-  float: right;
-}
 span{
-  font-size: 24px;
+  background-color: black;
+  color: white;
+  font-family: Tahoma;
+  padding: 3px;
 }
 p{
-  font-size: 30px;
-  color: white;
-  font-family: Comic Sans MS;
-  background-color: black;
-  padding: 20px;
+  font-size: 24px;
+  font-family: Segoe UI;
+  border-bottom: 3px solid black;
+  padding-bottom: 20px;
 }
+/* h3{
+  color:#f0f0f0;
+  background-color: #33ee33;
+  padding: 30px;
+}
+*/
