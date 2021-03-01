@@ -1,15 +1,25 @@
-body {
-  height: 100vh;
+.one {
+  background-color: red;
+}
+.two {
+  background-color: orange;
+}
+.three {
+  background-color: yellow;
+}
+.four {
+  background-color: green;
+}
+.five {
+  background-color: blue;
+}
+.six {
+  background-color: indigo;
+}
+.seven {
+  background-color: violet;
 }
 div {
-  margin: 5px;
   width: 200px;
   height: 200px;
-}
-
-.left {
-  background-color: rgb(252, 6, 2);
-}
-.right {
-  background-color: rgb(10, 252, 1);
 }
