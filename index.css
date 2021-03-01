@@ -1,23 +1,21 @@
-div {
-  background-color: violet;
-  margin: 10px;
-  height: 100px;
-  width: 50px;
-  text-align: center;
+body {
+  width: 300px;
+  margin: auto;
 }
-
-main{
+section {
   display: flex;
+  padding: 10px;
 }
 
-#two{
-  flex-grow: 1;
+div {
+  background-color: rgb(145, 2, 0);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
 }
-
-#three{
-  flex-grow: 2;
+#first{
+  flex-wrap: wrap;
 }
-
-#four{
-  flex-grow: 3;
+#second{
+  flex-wrap: wrap-reverse;
 }
