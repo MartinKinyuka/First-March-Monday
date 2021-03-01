@@ -1,25 +1,9 @@
-.one {
-  background-color: red;
-}
-.two {
-  background-color: orange;
-}
-.three {
-  background-color: yellow;
-}
-.four {
-  background-color: green;
-}
-.five {
-  background-color: blue;
-}
-.six {
-  background-color: indigo;
-}
-.seven {
-  background-color: violet;
-}
 div {
-  width: 200px;
   height: 200px;
+  width: 200px;
+  margin: 5px;
+  background-color: rgb(120, 4, 237);
+  background-clip: border-box;
+  box-shadow: 5px 5px 2em;
+  text-align: center;
 }

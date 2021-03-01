@@ -1,3 +1,7 @@
-div{
+.f-right{
   float: right;
+}
+
+.c-right{
+  float: none;
 }
